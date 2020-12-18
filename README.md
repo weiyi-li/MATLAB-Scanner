@@ -6,21 +6,21 @@ This program extracts the RGB channels and pixel values in the file image, and s
 ## Demonstration
 ### Test1 File with 1 RGB primary color (blue)
 #### Original image
-![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/master/Image/Test1.jpg)
+![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Test1.jpg)
 #### Scanned image
-![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/master/Image/Scanned%20Test1.png)
+![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Scanned%20Test1.png)
 ### Test2 Picture mainly with black and RGB primary colors
 #### Original image 
-![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/master/Image/Test2.jpg)
+![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Test2.jpg)
 #### Scanned image
-![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/master/Image/Scanned%20Test2.png)
+![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Scanned%20Test2.png)
 ### Test3 Picture with mixed colors
 #### Original image
-![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/master/Image/Test3.jpg)
+![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Test3.jpg)
 #### Scanned image
-![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/master/Image/Scanned%20Test3.png)
+![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Scanned%20Test3.png)
 ### Test4 File with more than 1 RGB primary color (blue and red)
 #### Original image
-![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/master/Image/Test4.jpg)
+![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Test4.jpg)
 #### Scanned image
-![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/master/Image/Scanned%20Test4.png)
+![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Scanned%20Test4.png)
