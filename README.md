@@ -5,7 +5,7 @@ This program extracts the RGB channels and pixel values in the file image, and s
 
 ## Demonstration
 ### Test1 File with 1 RGB primary color (blue)
-The picture wiht 1 RGB primary color can be smoothly converted by saturizing the color and wiping out the region with intermediate gray value.
+The picture wiht 1 RGB primary color can be smoothly converted by saturizing the color and wiping out the region with intermediate gray value. The fold of paper can also be relieved of eliminated since it is classified as an intermediate gray value.
 #### Original image
 ![Image](https://github.com/weiyi-li/MATLAB-Scanner/blob/main/Image/Test1.jpg)
 #### Scanned image
